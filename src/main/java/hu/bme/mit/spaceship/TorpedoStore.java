@@ -13,7 +13,7 @@ public class TorpedoStore {
   private double FAILURE_RATE = 0.0; //NOSONAR
 
   private int torpedoCount = 0;
-
+  // https://www.youtube.com/watch?v=dQw4w9WgXcQ
   private Random generator = new Random();
 
   public TorpedoStore(int numberOfTorpedos){
